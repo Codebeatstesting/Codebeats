@@ -6,4 +6,4 @@ Code Beats started as a senior project in VCU's College of Engineering. This pro
 Shepherd, foreground, and Douglas Krug, a doctoral student in the Department of Computer Science, are collecting the opinions of the Code Beats students to understand if the approach helps change their feelings about computers and coding. (Kevin Morley, University Marketing) - [Image and caption collected from VCU Newsletter, news.vcu.edu]
 
 ​More on Code Beats: 
-<a href=“davidshepherd.weebly.com/uploads/9/0/7/1/9071587/codebeats__6_.pdf"><a/>
+<a href=“davidshepherd.weebly.com/uploads/9/0/7/1/9071587/codebeats__6_.pdf"> More on Code Beats </a>
